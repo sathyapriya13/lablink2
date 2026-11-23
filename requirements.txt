@@ -1,1 +1,6 @@
--r backend/requirements.txt
+fastapi==0.165.0
+uvicorn==0.54.0
+google-cloud-firestore==2.34.1
+google-genai==3.6.1
+tzdata==2026.6
+psycopg[binary]==3.3.9
