@@ -1,0 +1,16 @@
+**/node_modules
+**/dist
+**/.venv
+**/venv
+**/__pycache__
+**/.pytest_cache
+**/coverage
+backend/tests
+frontend/src/__tests__
+.git
+.github
+docs
+*.md
+*.pdf
+.env
+.env.*
